@@ -18,3 +18,5 @@ vaicore.xyz
 web.ab-salute.com
 smart.link
 zc.adswizz.com
+token.api.kochava.com
+location.api.kochava.com
